@@ -1,0 +1,27 @@
+# ── Core app ──────────────────────────────────
+streamlit
+
+# ── Browser automation ─────────────────────────
+selenium
+webdriver-manager
+
+# ── Data processing ────────────────────────────
+pandas
+numpy
+openpyxl
+PyPDF2
+
+# ── HTML parsing ───────────────────────────────
+beautifulsoup4
+
+# ── Authentication ─────────────────────────────
+pyotp
+
+# ── Windows / Outlook integration ─────────────
+# Note: pywin32 is Windows-only
+pywin32
+
+# ── Standard library (no install needed) ───────
+# os, sys, threading, queue, math, re, csv,
+# glob, shutil, zipfile, io, copy, traceback,
+# datetime, calendar, gc
